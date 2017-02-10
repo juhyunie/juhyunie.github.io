@@ -1,5 +1,30 @@
-Styles
+img {
+	height: 37px;
+	padding: 20px;
+	margin-top: 360px;
+	xmargin-left: 20px;
 
-p {
-	
+
+
 }
+
+body {
+	font-family: "Helvetica", Arial, sans-serif;
+	font-size: smaller;
+	color: white;
+	margin-left: 270px;
+
+
+}
+
+h2 {
+	font-weight: ;
+	font-size: 20px;
+	color: white;
+}
+
+a:link, a:visited{
+    text-decoration: none;
+    color: white;
+}
+
