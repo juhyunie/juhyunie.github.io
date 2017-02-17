@@ -1,0 +1,28 @@
+img {
+	height: 780px;
+	padding: 0px;
+	margin-top: 0px;
+	text-align: : center
+}
+
+body {
+	font-family: "Helvetica", Arial, sans-serif;
+	font-size: 20px;
+	color: white;
+	text-align: center;
+}
+
+h1 {
+
+}
+
+h2 {
+	font-weight: ;
+	font-size: 40px;
+	color: white;
+}
+
+a:link, a:visited{
+    text-decoration: none;
+    color: white;
+}
