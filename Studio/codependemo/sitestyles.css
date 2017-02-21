@@ -1,0 +1,39 @@
+#wrapper {
+  width: 330px;
+  font-family: 'Yantramanav', sans-serif;
+  line-height: 1.2em;
+  xpadding: 40px;
+  background-color: white;
+  margin-top: 30px;
+  margin-left: 38px;
+  margin-bottom: 20px;
+}
+
+#wrapper img {width:124%}
+
+h1 {
+  font-size: 48px;
+  letter-spacing: 1px;
+  margin-left: 20px;
+  xposition: absolute;
+  margin-top: 60px;
+
+}
+
+img {
+  xmargin-left:30px;
+  xmargin-top: 6px;
+  padding: 20px;
+  margin-bottom: 20px;
+
+}
+
+p {
+  position: absolute;
+  margin-top: px;
+  margin-left: 473px;
+  float: left;
+  min-height: 1px;
+  width: 33%;
+  text-align:-;
+}

@@ -1,0 +1,32 @@
+img {
+	height: 445px;
+	text-align: center;
+}
+
+h1 {
+	color: white;
+}
+
+body {
+	font-family: "Helvetica", Arial, sans-serif;
+	font-size: smaller;
+	text-align: center;
+}
+
+p {
+	font-weight:
+	font-style: italic;
+	font-size: 15px;
+}
+
+a:link, a:visited {
+    text-decoration: none;
+    color: #B2B2B2;
+    
+}
+
+
+li {
+	font-color: black;
+}
+
