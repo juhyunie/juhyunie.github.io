@@ -1,0 +1,22 @@
+h1 {
+	color: #40FF3C;
+	margin-top: 755px;
+	margin-left: 1335px;
+	font-family: 'Pragati Narrow', sans-serif;
+	font-size: 18px;
+}
+
+a:link, a:visited{
+    text-decoration: none;
+    color: #40FF3C;
+}
+
+a:hover {
+	color: black; 
+}
+
+img {
+	position: absolute;
+	left: 0;
+	top: 294px;
+}
