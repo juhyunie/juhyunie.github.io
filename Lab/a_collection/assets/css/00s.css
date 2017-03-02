@@ -4,6 +4,7 @@ h1 {
 	margin-left: 1335px;
 	font-family: 'Pragati Narrow', sans-serif;
 	font-size: 18px;
+	position: absolute;
 }
 
 a:link, a:visited{
@@ -15,10 +16,14 @@ a:hover {
 	color: black; 
 }
 
-img {
+p {
 	position: absolute;
 	left: 0;
 	top: 294px;
+}
+
+p:hover {
+
 }
 
 .video {
@@ -26,5 +31,44 @@ img {
 }
 
 #ohboy {
-	
+	margin-left: 55px;
+	margin-top: 55px;
+	width: 60px;
+	height: auto;
 }
+
+#dilemma {
+	margin-left: 55px;
+	margin-top: 10px;
+}
+
+#alwaysontime {
+
+
+}
+
+#callonme {
+
+}
+
+#down4u {
+
+}
+
+#mesmerize {
+
+
+}
+
+#imreal {
+
+}
+
+#workit{
+
+}
+
+
+
+
+
