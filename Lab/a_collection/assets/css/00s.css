@@ -1,58 +1,81 @@
 h1 {
 	color: #40FF3C;
-	margin-top: 755px;
+	margin-top: 418px;
 	margin-left: 1335px;
 	font-family: 'Pragati Narrow', sans-serif;
 	font-size: 18px;
-	position: absolute;
+	position: fixed;
+}
+
+.greenborder img{
+	top: 97px;
+	left: 202.5px;
+	height: 600px;
+	width: 1020px;
+	position: fixed;
+
 }
 
 a:link, a:visited{
     text-decoration: none;
     color: #40FF3C;
+    position: absolute;
 }
 
 a:hover {
 	color: black; 
+	position: absolute;
 }
 
 p {
-	position: absolute;
+	position: fixed;
 	left: 0;
 	top: 294px;
+	z-index: 2;
 }
 
 p:hover {
 
 }
 
+
+
 .video {
 
 }
 
 #ohboy {
-	margin-left: 55px;
-	margin-top: 55px;
+	margin-left: 30px;
+	top: 20px;
 	width: 60px;
 	height: auto;
+	position: absolute;
 }
 
 #dilemma {
-	margin-left: 55px;
-	margin-top: 10px;
+	left: 900px;
+	top: 150px;
+	position: absolute;
 }
 
 #alwaysontime {
-
+	margin-left: 30px;
+	margin-top: 330px;
+	position: relative;
 
 }
 
 #callonme {
+	margin-left: 30px;
+	margin-top: 5px;
+	position: relative;
 
 }
 
 #down4u {
-
+	left: 1000px;
+	top: 65px;
+	position: absolute;
 }
 
 #mesmerize {
