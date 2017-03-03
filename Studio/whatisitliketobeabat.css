@@ -1,16 +1,30 @@
-h1 h2 { 
+h1, h2 { 
 	font-family: "Berlingske Serif Stencil Italic";
-	font-weight: normal;
+	font-weight: medium;
 	font-style: normal;
+
 }
 
+h1 {
+	font-size: 40px;
+}
 
 
 p {
-
+	width: 46%;
+	text-align: justify;
+	font-family: "Abelard Light";
+	font-weight: normal;
+	font-style: normal;
+	font-size: 13px;
+	
 }
+
 
 
 img {
 	width: 400px;
 }
+
+
+
