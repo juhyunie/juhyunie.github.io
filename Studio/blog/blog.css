@@ -1,0 +1,23 @@
+h1 {
+	font-family: "Helvetica", Arial, sans-serif;
+	color: white;
+	font-size: 18px;
+}
+
+h2 {
+	font-family: "Helvetica", Arial, sans-serif;
+	font-size: 15px;
+}
+
+li {
+	font-family: "Helvetica", Arial, sans-serif;
+	font-size: 13px;
+}
+
+.box {
+	width: 400px;
+	height: 650px;
+	border-color: white;
+	margin-left: 70px;
+	margin-top: 220px;
+}
