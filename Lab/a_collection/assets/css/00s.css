@@ -1,10 +1,12 @@
 h1 {
 	color: #40FF3C;
-	margin-top: 418px;
+	margin-top: 51%;
 	margin-left: 1335px;
 	font-family: 'Pragati Narrow', sans-serif;
 	font-size: 18px;
 	position: fixed;
+	float: top;
+	z-index: 3;
 }
 
 .greenborder img{
@@ -16,25 +18,43 @@ h1 {
 
 }
 
-a:link, a:visited{
+a:link, a:visited {
     text-decoration: none;
     color: #40FF3C;
-    position: absolute;
 }
 
-a:hover {
-	color: black; 
-	position: absolute;
+.sidebar {
+     position: fixed;
+     left: 0;
+     top: 320px;
+     display: block;
+     height: 166px;
+     width: 10px;
+     background-color: #40FF3C;
 }
 
-p {
-	position: fixed;
-	left: 0;
-	top: 294px;
-	z-index: 2;
+nav {
+     text-align: justify border-left;
+     color: #40FF3C;
+     font-family: 'Pragati Narrow', sans-serif;
+     font-size: 16px;
+     display: none;     
+     z-index: 4;
+     margin-left: 19%;
+     margin-top: 12%;
 }
 
-p:hover {
+.sidebar:hover nav {
+     display: block;
+
+}
+
+.sidebar:hover {
+     background-image: url('../media/smallmenubox.png');
+     width: 250px;
+     background-color: none;
+     z-index: 5;
+}
 
 }
 
@@ -48,38 +68,38 @@ p:hover {
 	margin-left: 30px;
 	top: 20px;
 	width: 60px;
-	height: auto;
-	position: absolute;
+	height: ;
+	position: relative;
 }
 
 #dilemma {
 	left: 900px;
 	top: 150px;
-	position: absolute;
+	position: relative;
 }
 
 #alwaysontime {
-	margin-left: 30px;
-	margin-top: 330px;
+	margin-left: 60%;
+	margin-top: 13%;
 	position: relative;
 
 }
 
 #callonme {
-	margin-left: 30px;
-	margin-top: 5px;
+	margin-left: 4%;
+	margin-top: 5%;
 	position: relative;
 
 }
 
 #down4u {
-	left: 1000px;
-	top: 65px;
+	left: 73%;
+	top: 14%;
 	position: absolute;
 }
 
 #mesmerize {
-
+	
 
 }
 

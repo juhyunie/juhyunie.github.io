@@ -21,8 +21,6 @@ body {
 	margin-top: 300px;
 }
 
-
-
 .mainimage {
 	display: block;
 	margin: auto;
@@ -37,6 +35,10 @@ body {
 	background-image: url('../media/sidebar1.png');
 }
 
+.mainimage:hover nav {
+	display: block;
+}
+
 
 nav {
 	text-align: justify border-left;
@@ -45,13 +47,10 @@ nav {
 	font-size: 15px;
 	display: none;	
 	position: absolute;
-	top: 32px;
-	left: 48px;
+	top: 37px;
+	left: 52px;
 }
 
-.mainimage:hover nav {
-	display: block;
-}
 
 .mainimage:hover h2 {
 	height: 100%;
@@ -106,10 +105,11 @@ a:link, a:visited {
     color: #40FF3C;
 /*  position: absolute;
 */  font-family: 'Pragati Narrow', sans-serif;
-	font-size: 18px;
+	font-size: 16.5px;
 }
 
 .wrapper:hover + header {
-	border-left-color: red;
+	border-color: #40FF3C;
 }
+
 

@@ -1,70 +1,74 @@
 h1 {
-	color: white;
+	color: black;
 	margin-top: 740px;
 	margin-left: 1335px;
 	font-family: 'Pragati Narrow', sans-serif;
 	font-size: 18px;
 	position: fixed;
-	z-index: 2;
+	z-index: 5;
 }
 
 #topbar {
 	top: 0px;
 	left: 0;
-	opacity: 0.85;
+	mix-blend-mode: multiply;
 	position: fixed;
 	height: 10px;
+	z-index: 2;
 }
 
 #bottombar {
-	top: 600px; 
+	top: 629px; 
 	left: 0;
-	opacity: 0.85;
+	mix-blend-mode: multiply;
 	position: fixed;
 	height: 10px;
+	z-index: 2;
 }
+
+
+
+
+
+
+
 
 a:link, a:visited {
     text-decoration: none;
-    color: white;
+    color: #40FF3C;
 }
-
-a:hover {
-	color: black; 
-}
-
-
-
-
-
-
-
-
 
 .sidebar {
-	position: fixed;
-	left: 0;
-	top: 294px;
-	display: block;
+     position: fixed;
+     left: 0;
+     top: 320px;
+     display: block;
+     height: 166px;
+     width: 10px;
+     background-color: #40FF3C;
 }
 
 nav {
-	text-align: justify border-left;
-	color: #40FF3C;
-	font-family: 'Pragati Narrow', sans-serif;
-	font-size: 15px;
-	display: none;	
-	position: absolute;
-	top: 32px;
-	left: 48px;
+     text-align: justify border-left;
+     color: #40FF3C;
+     font-family: 'Pragati Narrow', sans-serif;
+     font-size: 16px;
+     display: none;     
+     z-index: 4;
+     margin-left: 19%;
+     margin-top: 12%;
 }
 
 .sidebar:hover nav {
-	display: block;
+     display: block;
+
 }
 
 .sidebar:hover {
-	background-image: url('assets/media/sidebar1.png');
+     background-image: url('../media/smallmenubox.png');
+     width: 250px;
+     background-color: none;
+     z-index: 5;
 }
 
 
@@ -74,37 +78,183 @@ nav {
 
 
 
-
-
-
-.graphics {
-	
-}
 
 
 .a {
-	border: 1.5px solid #40FF3C;
+	border: 1.8px solid #40FF3C;
+	display: inline-block;
+	position:relative;
+	padding: 8px;
+}
+
+.a img{
+	height: 300px;
+	vertical-align: top;
+}
+
+.b {
+	border: 1.8px solid #40FF3C;
+	display: inline-block;
+	position:relative;
+	padding: 17px;
+	padding-left: 50px;
+	padding-right: 50px;
+}
+
+.b img{
+	height: 300px;
+	vertical-align: top;
+}
+
+.c {
+	border: 1.8px solid #40FF3C;
+	display: inline-block;
+	position:relative;
+	padding: 41px 27px 41px 27px;
+
+}
+
+.c img{
+	height: 300px;
+	vertical-align: top;
+}
+
+.d {
+	border: 1.8px solid #40FF3C;
+	display: inline-block;
+	position:relative;
+	padding: 8px;
+}
+
+.d img{
+	height: 300px;
+	vertical-align: top;
+}
+
+.e {
+	border: 1.8px solid #40FF3C;
+	display: inline-block;
+	position:relative;
+	padding: 10px;
+	padding-right: 25px;
+	padding-left: 25px;
+}
+
+.e img{
+	height: 300px;
+	vertical-align: top;
+}
+
+.f {
+	border: 1.8px solid #40FF3C;
+	display: inline-block;
+	position:relative;
+	padding: 30px;
+}
+
+.f img{
+	height: 300px;
+	vertical-align: top;
+}
+
+.g {
+	border: 1.8px solid #40FF3C;
 	display: inline-block;
 	position:relative;
 	padding: 10px;
 }
 
-.a img{
+.g img{
 	height: 300px;
+	vertical-align: top;
 }
 
-#b {
-	border: 1.5px solid #40FF3C;
-	display: block;
-	max-width: 48%;
-	padding-top: 20px;
-	padding-bottom: 20px;
-	padding-left: 15px;
-	height: auto;
-
+.h {
+	border: 1.8px solid #40FF3C;
+	display: inline-block;
+	position:relative;
+	padding: 45px;
 }
 
+.h img{
+	height: 300px;
+	vertical-align: top;
+}
 
+.i {
+	border: 1.8px solid #40FF3C;
+	display: inline-block;
+	position:relative;
+	padding: 35px 0px 35px 0px;
+}
 
+.i img{
+	height: 300px;
+	vertical-align: top;
+}
 
+.j {
+	border: 1.8px solid #40FF3C;
+	display: inline-block;
+	position:relative;
+	padding: 10px;
+	padding-top: 18px;
+	padding-bottom: 18px;
+	vertical-align: top;
+}
+
+.j img{
+	height: 300px;
+	vertical-align: top;
+}
+.k {
+	border: 1.8px solid #40FF3C;
+	display: inline-block;
+	position:relative;
+	padding: 10px;
+	padding-top: 18px;
+	padding-bottom: 18px;
+}
+
+.k img{
+	height: 300px;
+	vertical-align: 
+}
+
+.l {
+	border: 1.8px solid #40FF3C;
+	display: inline-block;
+	position:relative;
+	padding: 10px;
+	padding-top: 18px;
+	padding-bottom: 18px;
+}
+
+.l img{
+	height: 300px;
+	vertical-align: top;
+}
+
+.m {
+	border: 1.8px solid #40FF3C;
+	display: inline-block;
+	position:relative;
+	padding: 25px 13px 25px 13px;
+}
+
+.m img{
+	height: 300px;
+	vertical-align: top;
+}
+.n {
+	border: 1.8px solid #40FF3C;
+	display: inline-block;
+	position:relative;
+	padding: 10px;
+}
+
+.n img{
+	height: 300px;
+	vertical-align: top;
+}
 

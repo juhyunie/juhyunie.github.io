@@ -1,19 +1,15 @@
 h1 {
 	color: #40FF3C;
-	margin-top: 740px;
+	margin-top: 510px;
 	margin-left: 1335px;
 	font-family: 'Pragati Narrow', sans-serif;
 	font-size: 18px;
-	position: absolute;
-}
+	position: fixed;
 
-a:link, a:visited{
-    text-decoration: none;
-    color: #40FF3C;
 }
 
 a:hover {
-	color: black; 
+	color: ;
 }
 
 .whiteborder img {
@@ -21,34 +17,95 @@ a:hover {
 	left: 202.5px;
 	height: 600px;
 	width: 1020px;
-	position: absolute;
+	position: fixed;
+	z-index: -1;
 
+}
+
+a:link, a:visited {
+    text-decoration: none;
+    color: #40FF3C;
 }
 
 .sidebar {
-	display: block;
+	position: fixed;
 	left: 0;
-	margin-top: 294px;
-	position: absolute;
+	top: 320px;
+	display: block;
+	height: 166px;
+	width: 10px;
+	background-color: #40FF3C;
+	z-index: 10;
 }
-
 
 nav {
 	text-align: justify border-left;
 	color: #40FF3C;
 	font-family: 'Pragati Narrow', sans-serif;
-	font-size: 15px;
+	font-size: 16px;
 	display: none;	
-	position: absolute;
-	top: 32px;
-	left: 48px;
+	margin-left: 19%;
+	margin-top: 12%;
 }
 
 .sidebar:hover nav {
 	display: block;
+	z-index: 10;
+	
 }
 
 .sidebar:hover {
-	background-image: url('assets/media/sidebar1.png');
+	background-image: url('../media/smallmenubox.png');
+	width: 250px;
+	background-color: none;
+	z-index: 10;
 }
+
+ul {
+	list-style: none;
+	white-space: nowrap;
+	width: 100000px;
+}
+
+li {
+	float: left;
+	display: inline;
+
+}
+
+#images img {
+	padding-right: 400px;
+	height: 340px;
+	z-index: 8;
+	position: relative;
+
+}
+
+
+#images {
+	margin-top: 16.2%;
+	z-index: 8;
+}
+
+video {
+	width: 650px; 
+	top: 27%;
+	left: 27%;
+	position: fixed;
+	float: top;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
