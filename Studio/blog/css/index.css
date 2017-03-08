@@ -1,0 +1,23 @@
+h1 {
+	font-family: "Helvetica", Arial, sans-serif;
+	color: white;
+	font-size: 20px;
+	margin-top: 28%;
+	margin-left: 13%;
+	font-weight: normal;
+	position: absolute;
+}
+
+li {
+	font-family: "Helvetica", Arial, sans-serif;
+	color: white;
+	font-size: 13px;
+	margin-top: 28%;
+	margin-left: 77%;
+	position: absolute;
+}
+
+a:link, a:visited{
+    text-decoration: none;
+    color: white;
+}
