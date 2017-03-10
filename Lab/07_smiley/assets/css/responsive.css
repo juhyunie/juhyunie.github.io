@@ -1,0 +1,47 @@
+@media (min-width: 600px) and (min-height: 500px){
+	.burger {
+		width: 300px;
+		height: auto;
+		position: absolute;
+	}
+	.fishburger {
+		display: none;
+	}
+	.burger2 {
+		display: none;
+	}
+	.hotdog {
+		display: none;
+	}
+
+}
+
+@media (min-width: 300px) and (min-width: 300px) {
+	
+}
+
+
+@media (max-height: 600px) {
+	.burger {
+		display: none;
+	}
+	.fishburger {
+		display: none;
+	}
+	.burger2 {
+		display: none;
+	}
+	.hotdog {
+		width: 300px;
+		height: auto;
+		position: absolute;
+	}
+}
+
+@media (min-width: 480px) and (max-width: 991px) {
+
+}
+
+@media (min-width: 992px) {
+    }
+}
