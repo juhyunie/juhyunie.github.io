@@ -1,27 +1,97 @@
-@media (min-width: 600px) and (min-height: 500px){
-	.burger {
-		width: 300px;
-		height: auto;
-		position: absolute;
+.logo {
+	position: absolute;
+	top: auto;
+	left: auto;
+	height: 200px;
+	display: none 
+}
+
+
+
+.burger {
+	display: none;
+}
+
+	.burger img{
+		width: 100%;
 	}
-	.fishburger {
-		display: none;
+
+.fishburger {
+	display: none;
+}
+
+	.fishburger img{
+		width: 100%;
 	}
+
+
+.burger2 {
+	display: none;
+}
 	.burger2 {
-		display: none;
+		width: 100%;
 	}
+
+
+.hotdog {
+	display: none;
+}
+	.hotdog img{
+	width: 100%;
+	}
+
+@media (min-width: 1000px) and (min-height: 1000px) {
+
+
+
+
+@media (max-width: 600px) and (max-height: 490px) {
+
+	html {
+		background-color: lightblue; 
+	}
+
+	.fishburger {
+		display: block;
+	}
+}
+
+@media (min-width: 601px) and (min-height: 491px) and (max-width: 690px) and (max-height: 690px){
+
+	html {
+		background-color: #99825f;
+	}
+
+	.burger2 {
+		display: block;
+	}
+}
+
+@media (min-width: 691px) and (min-height: 691px) and (max-width: 860px) and (max-height: 860px){
+
+	html {
+		background-color: red;
+	}
+
+	.burger {
+		display: block;
+	}
+}
+
+@media (max-width: 900px) and (max-height: 300px){
+
+	html {
+		background-color: orange;
+	}
+
 	.hotdog {
-		display: none;
+		display: block;
 	}
-
-}
-
-@media (min-width: 300px) and (min-width: 300px) {
-	
 }
 
 
-@media (max-height: 600px) {
+
+/*@media (min-height: 600px) {
 	.burger {
 		display: none;
 	}
@@ -44,4 +114,4 @@
 
 @media (min-width: 992px) {
     }
-}
+}*/

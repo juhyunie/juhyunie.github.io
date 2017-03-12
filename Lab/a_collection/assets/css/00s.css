@@ -9,6 +9,18 @@ h1 {
 	z-index: 3;
 }
 
+p {
+	font-family: 'Pragati Narrow', sans-serif;
+	font-size: 13px;
+	position: fixed;
+	float: top;
+	color: #40FF3C;
+	z-index: -2;
+	font-weight: lighter;
+	top: 8%;
+	left: 42.5%
+}
+
 .greenborder img{
 	top: 97px;
 	left: 202.5px;
@@ -56,12 +68,12 @@ nav {
      z-index: 5;
 }
 
-}
+
 
 
 
 .video {
-
+	z-index: 5;
 }
 
 #ohboy {
