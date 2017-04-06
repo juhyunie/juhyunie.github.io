@@ -24,7 +24,7 @@ var myAge = 22;
 if (myAge < 21) {
 	console.log("u cant party");
 } else {
-	console.log("partyon garth");
+	console.log("party on garth");
 
 }
 
