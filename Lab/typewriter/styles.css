@@ -1,0 +1,247 @@
+[id='1'] {
+	position: absolute;
+	z-index: -1;
+	margin-left: 7%;
+	margin-top: 8%;
+	width: 180px;
+}
+[id='2'] {
+	position: absolute;
+	z-index: -1;
+	margin-left: 7%;
+	margin-top: 10.5%;
+	width: 180px;
+}
+[id='3'] {
+	position: absolute;
+	z-index: -1;
+	margin-left: 7%;
+	margin-top: 12.9%;
+	width: 180px;
+}
+
+/*------------------------------------------------*/
+
+[id='4'] {
+	position: absolute;
+	z-index: -1;
+	margin-left: 29%;
+	margin-top: 8%;
+	width: 180px;
+}
+[id='5'] {
+	position: absolute;
+	z-index: -1;
+	margin-left: 29.65%;
+	margin-top: 8.7%;
+	width: 165px;
+}
+
+/*------------------------------------------------*/
+
+[id='6'] {
+	position: absolute;
+	z-index: -1;
+	margin-left: 51.64%;
+	margin-top: 8%;
+	width: 180px;
+}
+[id='7'] {
+	position: absolute;
+	z-index: -1;
+	margin-left: 51.64%;
+	margin-top: 16.6%;
+	width: 180px;
+}
+[id='8'] {
+	position: absolute;
+	z-index: -2;
+	margin-left: 51.64%;
+	margin-top: 8%;
+	width: 180px;
+}
+[id='9'] {
+	position: absolute;
+	z-index: -1;
+	margin-left: 51.64%;
+	margin-top: 16%;
+	width: 180px;
+}
+
+/*------------------------------------------------*/
+
+[id='10'] {
+	position: absolute;
+	z-index: -1;
+	margin-left: 74%;
+	margin-top: 8%;
+	width: 180px;
+}
+[id='11'] {
+	position: absolute;
+	z-index: -1;
+	margin-left: 74%;
+	margin-top: 9.12%;
+	width: 180px;
+}
+
+/*------------------------------------------------*/
+
+[id='12'] {
+	position: absolute;
+	z-index: -1;
+	margin-left: 7%;
+	margin-top: 42.50%;
+	width: 180px;
+}
+[id='13'] {
+	position: absolute;
+	z-index: -1;
+	margin-left: 7.9%;
+	margin-top: 43%;
+	height: 170px;
+}
+[id='14'] {
+	position: absolute;
+	z-index: -1;
+	margin-left: 13.05%;
+	margin-top: 43%;
+	height: 170px;
+}
+
+/*------------------------------------------------*/
+
+[id='15'] {
+	position: absolute;
+	z-index: -1;
+	margin-left: 29%;
+	margin-top: 42.50%;
+	width: 180px;
+}
+[id='16'] {
+	position: absolute;
+	z-index: -1;
+	margin-left: 29.2%;
+	margin-top: 42.7%;
+	width: 176px;
+}
+
+/*------------------------------------------------*/
+
+[id='17'] {
+	position: absolute;
+	z-index: 1;
+	margin-left: 51.64%;
+	margin-top: 50.25%;
+	width: 180px;
+}
+[id='18'] {
+	position: absolute;
+	z-index: -1;
+	margin-left: 51.64%;
+	margin-top: 46.66%;
+	width: 180px;
+}
+[id='19'] {
+	position: absolute;
+	z-index: -1;
+	margin-left: 51.64%;
+	margin-top: 42.50%;
+	width: 180px;
+}
+
+/*------------------------------------------------*/
+
+[id='20'] {
+	position: absolute;
+	z-index: -1;
+	margin-left: 74%;
+	margin-top: 42.50%;
+	width: 180px;
+}
+[id='21'] {
+	position: absolute;
+	z-index: -1;
+	margin-left: 76.3%;
+	margin-top: 43.9%;
+	width: 130px;
+}
+
+/*------------------------------------------------*/
+
+#a1 {
+	position: absolute;
+	margin-left: 11.11%;
+	display: none;
+	margin-left: 7%;
+	margin-top: 8%;
+	width: 180px;
+}
+#a2 {
+	position: absolute;
+	margin-left: 29%;
+	display: none;
+	margin-left: 29%;
+	margin-top: 8%;
+	width: 180px;
+}
+#a3 {
+	position: absolute;
+	margin-left: 51.64%;
+	display: none;
+	margin-left: 51.64%;
+	margin-top: 8%;
+	width: 180px;
+	z-index: 3;
+}
+#a4 {
+	position: absolute;
+	margin-left: 74%;
+	display: none;
+	margin-left: 74%;
+	margin-top: 8%;
+	width: 180px;
+	z-index: 3;
+
+}
+
+/*------------------------------------------------*/
+
+#a5 {
+	position: absolute;
+	margin-left: 11.11%;
+	display: none;
+	margin-left: 7%;
+	margin-top: 42.50%;
+	width: 180px;
+}
+#a6 {
+	position: absolute;
+	margin-left: 29%;
+	display: none;
+	margin-left: 29%;
+	margin-top: 42.50%;
+	width: 180px;
+}
+#a7 {
+	position: absolute;
+	margin-left: 51.64%;
+	display: none;
+	margin-left: 51.64%;
+	margin-top: 42.50%;
+	width: 180px;
+	z-index: 2;
+}
+#a8 {
+	position: absolute;
+	margin-left: 74%;
+	display: none;
+	margin-left: 74%;
+	margin-top: 42.50%;
+	width: 180px;
+	z-index: 3;
+
+}
+
+/*------------------------------------------------*/
+

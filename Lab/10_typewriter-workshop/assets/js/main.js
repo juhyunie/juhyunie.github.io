@@ -75,3 +75,32 @@ document.addEventListener('keydown', function(event){
         container.removeChild( container.lastChild );
     }
 });
+
+
+
+
+
+
+    var container = document.getElementById('container');
+
+
+
+
+    document.getElementById("1,2,3").style.display = "none"
+
+
+    document.addEventListener('keydown', function(event){
+    if (event.keyCode >= 65 && event.keyCode <= 90) {
+
+    if (event.keyCode == 32) {
+            document.getElementById(id).style.display = "block"
+    } else if (event.keyCode == 8) {
+            document.getElementById(id).style.display = "block"
+    }
+
+
+
+
+
+
+
