@@ -1,9 +1,9 @@
 h1 {
-    font-family: "helvetica", Arial, sans-serif;
+    font-family: "Helvetica", Arial, sans-serif;
 	font-size: 12px;
 	position: absolute;
 	margin-top: 30%;
-	margin-left: 85%;
+	margin-left: 90%;
 	transform: rotate(270deg);
 
 }
