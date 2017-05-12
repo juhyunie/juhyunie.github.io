@@ -1,0 +1,192 @@
+* {
+	font-family: 'Orbitron', sans-serif;
+}
+
+
+
+/*SECTION1-------------------------------------------*/
+
+/*#fullpage{
+	height: 8000px;
+}*/
+
+.block {
+    height: 110%;
+    width: auto;
+    margin-top: -29%;
+    margin-left: 23%;
+	position: absolute;
+}
+
+.sec1img {
+	position: absolute;
+    height: 24%;
+    margin-left: 33%;
+    margin-top: -13%;
+
+}
+
+.sec1img2 {
+    position: absolute;
+    height: 24%;
+    margin-left: 50%;
+    margin-top: -13%;
+}
+
+.sec1img3 {
+    position: absolute;
+    height: 25%;
+    margin-left: 49%;
+    margin-top: 0.3%;
+
+}
+
+.sec1img4 {
+    position: absolute;
+    height: 25%;
+    margin-left: 39.3%;
+    margin-top: 0.3%;
+}
+
+/*SECTION2-------------------------------------------*/
+
+.sec2img {
+    height: 37.5%;
+    width: auto;
+    margin-top: -10%;
+    margin-left: 13%;
+    position: absolute;
+}
+
+.sec2img2 {
+    height: 37.5%;
+    width: auto;
+    margin-top: -10%;
+    margin-left: 29%;
+    position: absolute;
+}
+
+.sec2text {
+    font-size: 11px;
+    color: black;
+    line-height: 1.2;
+    width: 350px;
+    position: absolute;
+    margin-left: 60%;
+    margin-top: -4.5%
+}
+
+
+/*SECTION3-------------------------------------------*/
+
+.sec3img {
+    height: 16%;
+    width: auto;
+    margin-top: 4%;
+    margin-left: 11%;
+    position: absolute;
+}
+
+.sec3img2 {
+	height: 16%;
+    width: auto;
+    margin-top: 4%;
+    margin-left: 23%;
+    position: absolute;
+}
+
+.sec3img3 {
+    height: 16%;
+    width: auto;
+    margin-top: 14%;
+    margin-left: 11%;
+    position: absolute;
+}
+
+.sec3img4 {
+    height: 16%;
+    width: auto;
+    margin-top: 14%;
+    margin-left: 23%;
+    position: absolute;
+}
+
+.sec3img5 {
+    height: 36%;
+    width: auto;
+    margin-top: 28%;
+    margin-left: 14%;
+    position: absolute;
+}
+
+.sec3text {
+	font-size: 11px;
+	color: #0052E2;
+	line-height: 1.2;
+	width: 720px;
+	position: absolute;
+	margin-left: 40%;
+	margin-top: 23%;
+}
+
+.footer {
+	font-size: 14px;
+	color: #0052E2;
+	position: absolute;
+	margin-top: 52%;
+	margin-left: 84%;
+	overflow: hidden;
+    height: 1em;
+}
+
+.footer a:visited {
+	text-decoration: none;
+	color: #0052E2;
+}
+
+.footer a:link {
+	text-decoration: none;
+	color: #0052E2;
+}
+
+/*SOURCES-------------------------------------------*/
+
+.triangle-img {
+	height: 10px;
+	margin-left: 1%;
+	margin-top: 52%;
+}
+
+#sources{
+	position: relative;
+	width: 100%;
+	height: auto;
+	display: none;
+	color: #0052E2;
+	background-color: ;
+}
+
+.rotate {
+    transform: rotate(-180deg);
+    /*transform: rotate(180deg);*/
+    transition: .3s;
+}
+.rotate-reset {
+    transform: rotate(0deg);
+    transition: .3s;
+}
+
+.sourcetext {
+	text-decoration: none;
+	padding-left: 40px;
+	padding-top: -10px;
+	color: #0052E2;
+	font-size: 9px;
+}
+
+
+
+
+
+
+

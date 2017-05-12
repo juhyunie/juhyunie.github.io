@@ -1,0 +1,20 @@
+h1 {
+	font-family: 'Orbitron', sans-serif;
+	font-size: 12px;
+	font-color: black;
+	letter-spacing: 0.5px;
+/*	margin-top: 20%;
+	margin-left: 23%;*/
+
+}
+
+
+.textbox {
+	position: relative;
+	font-family: 'Orbitron', sans-serif;
+	font-size: 13px;
+	font-color: white;
+	letter-spacing: 0.5px;
+	margin-left: 10%;
+	margin-top: 23%;
+}

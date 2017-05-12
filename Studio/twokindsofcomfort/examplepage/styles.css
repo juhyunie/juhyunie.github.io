@@ -1,0 +1,106 @@
+        .slider-holder {
+            width: 420px;
+            height: 290px;
+            background-color: #0052E2;
+            margin-left: 10%;
+            margin-right: auto;
+            margin-top: 18%;
+            text-align: center;
+            overflow: hidden;
+        }
+        
+        .image-holder {
+            width: 10000px;
+            background-color: #0052E2;
+            height: 400px;
+            clear: both;
+            position: relative;
+            
+            -webkit-transition: left 2s;
+            -moz-transition: left 2s;
+            -o-transition: left 2s;
+            transition: left 2s;
+        }
+        
+        .slider-image
+        {
+            float: left;
+            margin: 0px;
+            padding: 0px;
+            position: relative;
+        }
+        
+        #slider-image-1:target ~ .image-holder
+        {
+            left: 0px;
+        }
+        
+        #slider-image-2:target ~ .image-holder
+        {
+            left: -438px;
+        }
+        
+        #slider-image-3:target ~ .image-holder
+        {
+            left: -990px;
+        }
+
+        #slider-image-4:target ~ .image-holder
+        {
+            left: -1650px;
+        }
+        
+        #slider-image-5:target ~ .image-holder
+        {
+            left: -2080px;
+        }
+        
+        #slider-image-6:target ~ .image-holder
+        {
+            left: -2550px;
+        }
+
+
+        .button-holder
+        {
+            position: absolute;
+            top: 68.5%;
+            margin-left: 33.5%;
+        }
+        
+        .slider-change
+        {
+            display: inline-block;
+            height: 10px;
+            width: 10px;
+            border-radius: 5px;
+            background-color: black;
+        }
+
+        #one {
+        	height: 80%;
+        }
+
+        #two {
+        	height: 83%;
+        }
+
+        #three {
+        	height: 90%;
+        }
+
+        #four {
+        	height: 90%;
+        }
+
+        #five {
+        	height: 73%;
+        }
+
+        #six {
+        	height: 73%;
+        }
+
+  
+
+
