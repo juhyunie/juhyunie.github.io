@@ -2,8 +2,12 @@
 	font-family: 'Orbitron', sans-serif;
 }
 
-
-
+.icon {
+    position: absolute;
+    width: 25%;
+    margin-top: -1.7%;
+    margin-left: 55%;
+}
 /*SECTION1-------------------------------------------*/
 
 /*#fullpage{

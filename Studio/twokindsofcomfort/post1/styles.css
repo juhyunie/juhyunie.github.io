@@ -3,27 +3,11 @@
 }
 
 
-ul.share-buttons{
-  list-style: none;
-  padding: 0;
-  z-index: 5;
-}
-
-ul.share-buttons li{
-  display: inline;
-  z-index: 5;
-}
-
-ul.share-buttons .sr-only {
-  position: absolute;
-  clip: rect(1px 1px 1px 1px);
-  clip: rect(1px, 1px, 1px, 1px);
-  padding: 0;
-  border: 0;
-  height: 1px;
-  width: 1px;
-  overflow: hidden;
-  z-index: 5;
+.icon {
+    position: absolute;
+    width: 25%;
+    margin-top: -1.7%;
+    margin-left: 55%;
 }
 
 
